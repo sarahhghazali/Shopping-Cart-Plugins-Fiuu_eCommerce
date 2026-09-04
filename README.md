@@ -25,7 +25,7 @@ assistance, please email support@fiuu.com.
 Installation
 -----
 
-Copy the `wp-e-commerce/` folder into your WP eCommerce installation's plugins directory and activate it from the admin panel. Detailed setup guidance will be migrated here from the original repository's wiki shortly.
+See the [Installation for WP eCommerce Plugins](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_eCommerce/wiki/Installation-for-WP-eCommerce-Plugins) wiki page.
 
 Changelog
 ------------
